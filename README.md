@@ -4,7 +4,7 @@ Time to see how well we've taught you event handling in JavaScript.
 
 ## Setup
 
-1. There is sample HTML file content below so create an `index.html` for it and place the content in the body tag.
+COMPLETED 1. There is sample HTML file content below so create an `index.html` for it and place the content in the body tag.
 2. Link in a JavaScript file named `eventHandling.js`.
 3. Create a CSS file and link it to your HTML. You'll be using `element.classList` to manipulate the CSS classes on elements.
 
