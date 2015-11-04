@@ -5,10 +5,28 @@
 section:first-child {
 	font-weight: bold;
 }
+
 section:last-child {
 	font-weight: bold;
 	font-style: italic;
 }
+
 button {
 	display: block;
+}
+
+.add-color {
+	color: blue;
+}
+
+.make-large {
+	font-size: 3em;
+}
+
+.add-border {
+	border: 5px solid red;
+}
+
+.add-rounding {
+	border-radius: 10px;
 }
